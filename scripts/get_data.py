@@ -11,7 +11,7 @@ mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("get_data")
 
 # API ключ для доступа к YouTube Data API
-key = "AIzaSyCp7Jxz_F39BnoHLHfRrPA11uHWDLN0d5I"
+key = "Здесь должен стоять Ваш API ключ"
 api = Api(api_key=key)
 
 # Поиск видео по ключевым словам
